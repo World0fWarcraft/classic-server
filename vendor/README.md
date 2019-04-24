@@ -28,6 +28,14 @@ Version used: [commit 54bb094](https://github.com/recastnavigation/recastnavigat
 License: GPL License, version 2
 Version used: [commit 707e6f7](https://github.com/ge0rg/libmpq/commit/707e6f7c6d70524e2ff895d9907b93df5e9768d0)
 
+### StormLib
+
+[StormLib][stormlib] implements most (if not all) MPQ archive formats and is
+still under active development.
+
+License: MIT License
+Version used: [commit f2c8d24](https://github.com/ladislav-zezula/StormLib/commit/f2c8d249607009a282904a43a4c4ba60922a92bb)
+
 ### G3D engine
 
 [g3d][g3d] provides common 3D objects for handling maps and meshes.
@@ -58,3 +66,4 @@ Version used: [1.8.1](https://github.com/google/googletest/releases/tag/release-
 [spdlog]: https://github.com/gabime/spdlog
 [utf8cpp]: http://utfcpp.sourceforge.net/
 [gtest]: https://github.com/google/googletest
+[stormlib]: https://github.com/ladislav-zezula/StormLib
